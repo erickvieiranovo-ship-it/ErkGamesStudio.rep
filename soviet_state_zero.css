@@ -1,0 +1,41 @@
+a { color:#000000; } 
+a:visited { color:#000000; } 
+a:active { color:#5C615E; } 
+a:hover { color:#FF0000; } 
+#gallery_26cda9dd div.galleryimgcontainer { box-sizing: border-box; vertical-align: middle; display: inline-block; width: 100%; height: auto; padding: 1px; font-size:12pt; font-family:Chernobyl; color:#000000; text-align:center;  } 
+#gallery_26cda9dd div.galleryimgcontainer img {  width: 100%;  height: auto;  } 
+#gallery_26cda9dd img{  border: 1px solid transparent; } 
+#gallery_26cda9dd img:hover{ border: 1px solid #646464 !important; } 
+#gallery_608c5ba8 div.galleryimgcontainer { box-sizing: border-box; vertical-align: middle; display: inline-block; width: 50%; height: auto; padding: 5px;  } 
+#gallery_608c5ba8 div.galleryimgcontainer img {  width: 100%;  height: auto; border-radius: 15px;  } 
+@media only screen and (max-width:420px) { #gallery_608c5ba8 div.galleryimgcontainer { width: 100%; } } 
+#gallery_608c5ba8 img{  border: 1px solid transparent; } 
+#gallery_608c5ba8 img:hover{ border: 1px solid #646464 !important; } 
+body { background-color:#FFFFFF; padding:0;  margin: 0; }
+.textstyle1 { text-align:left; }
+#container_36035886 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:150px; background-color:#7D4040;  }
+#container_36035886_padding { margin: 10px; display: block;  }
+#label_d89759c { vertical-align: bottom; position:relative; display: inline-block; width:406px; height:49px; background:none; font-size:36pt; font-family:Chernobyl; color:#000000; text-align:left;  }
+#label_439e7c9a { position:absolute; left:7%; top:43%; width:482px; height:34px; background:none; font-size:12pt; font-family:Chernobyl; color:#000000; text-align:left;  }
+#label_356e6c71 { position:absolute; left:7%; top:68%; width:51px; height:20px; background:none; font-size:12pt; font-family:Chernobyl; color:#000000; text-align:left; text-decoration:underline;  }
+#shapedivider_c145133 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:42px; background:none;  }
+#shapedivider_c145133_padding { margin: 10px; display: block; position: relative;  }
+#container_7803b8b1 { vertical-align: top; position:relative; display: inline-block; float:left; width:46%; min-height:1062px; background:none;  }
+#container_7803b8b1_padding { margin: 10px; display: block;  }
+#label_301a3c75 { vertical-align: bottom; position:relative; display: inline-block; width:243px; height:983px; background:none;  }
+.textstyle2 { font-size:16pt; font-family:Chernobyl; color:#7D4040;  }
+.textstyle3 { font-size:12pt; font-family:Chernobyl; color:#000000;  }
+#container_36360adc { vertical-align: top; position:relative; display: inline-block; float:right; width:51%; min-height:503px; background:none;  }
+#container_36360adc_padding { margin: 10px; display: block;  }
+#label_6779c72 { vertical-align: bottom; position:relative; display: inline-block; float:right; width:255px; height:183px; background:none;  }
+.textstyle4 { text-align:right; }
+.textstyle5 { font-size:16pt; font-family:Chernobyl; color:#000000;  }
+#container_5aa64af4 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:298px; background:none;  }
+#container_5aa64af4_padding { margin: 10px; display: block;  }
+#label_92f8692 { vertical-align: bottom; position:relative; display: inline-block; float:right; width:238px; height:285px; background:none;  }
+#gallery_26cda9dd { overflow:hidden; vertical-align: bottom; position:relative; display: inline-block; width:100%; min-height:151px;  }
+#container_2ced744a { vertical-align: bottom; position:relative; display: inline-block; float:right; margin:20px 0px 0px 0px; width:51%; min-height:536px; background:none;  }
+#container_2ced744a_padding { margin: 10px; display: block;  }
+#label_6b0b2a5b { vertical-align: bottom; position:relative; display: inline-block; float:right; margin:10px 0px 0px 0px; width:176px; height:36px; background:none; font-size:16pt; font-family:Chernobyl; color:#7D4040; text-align:right;  }
+#gallery_608c5ba8 { overflow:hidden; vertical-align: bottom; border-radius: 15px; position:relative; display: inline-block; float:right; margin:20px 0px 0px 0px; width:102%; min-height:333px;  }
+#text_24b89891 { vertical-align: bottom; position:relative; display: inline-block; float:right; margin:20px 0px 0px 0px; width:281px; height:55px; background:none;  }
